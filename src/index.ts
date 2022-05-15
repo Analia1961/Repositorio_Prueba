@@ -90,13 +90,52 @@ Ejercicio1 – Mayor de Tres
 </br>
 <div>
 <h2>CLASE 5 </h2>
-TAREA (título1)<br />
-  información <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
-</div>
+<h4>Estructuras de Control - CICLOS<br />
+  Lunes 2 de mayo de 2022 </h4>
+Estructura de control<br/>
+  <a href="https://codesandbox.io/s/github/Analia1961/Eureka-Clase5-CICLOS-lunes2mayo/tree/main?file=/src/index.ts" target="_blank" rel="noopener noreferrer">Ejercicio 3: Eureka</a>
+  </br></br>
+  Estructura de control<br/>
+  <a href=" https://codesandbox.io/s/github/Analia1961/Multiplos_Clase5-CICLOS_lunes2deMayo/tree/main?file=/src/index.ts" target="_blank" rel="noopener noreferrer"> Ejercicio 2: Múltiplos</a>
+  </br></br>
+  Estructura de control<br/>
+  Ejercicio 3: Par/Impar
+    <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+  <br/><br/>
+  
+  Estructura de control<br/>
+  Ejercicio 4: Suma entre Números
+    <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+  <br/><br/>
+  
+  Estructura de control<br/>
+  Ejercicio 5: Tablas de Multiplicación
+    <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+  <br/><br/>
+  
+  Estructura de control<br/>
+  Ejercicio 6: Cantidad y Distribución de Positivos 
+    <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+  <br/><br/>
+  
+  Estructura de control<br/>
+  Ejercicio 7: Promedio-Máximo-Mínimo
+    <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+    <br/><br/>
 
+    Estructura de control<br/>
+    Ejercicio 8: Calificaciones
+      <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+    <br/><br/>
+
+    Estructura de control<br/>
+    Ejercicio 9: Dados
+      <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+    
+    </div>
+  </br>
+  <div>
 <h2>CLASE 6 </h2>
-<div>
 TAREA (título1)<br />
   información <br />
   <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
