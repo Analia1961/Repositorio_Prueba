@@ -198,12 +198,47 @@ Estructuras de Datos <br />
  Tipos de Números en Arreglo 
   <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
   </div>
-
 <br/>
+
 <div>
 <h2>CLASE 8 </h2>
-TAREA (título1)<br />
-  información <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
-</div>
+<h4> Estructuras de Datos - Arreglos<br/>
+Viernes 13 de mayo de 2022 </h4>
+<h3>Arreglos (Ejercicios ONLINE)</h3>
+
+Estructuras de Datos - Arreglos<br/>
+Ejercicio 1: Identificación Mes – Código 
+  <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+<br/><br/>
+
+Estructuras de Datos - Arreglos<br/>
+Ejercicio 2: Arreglo de Números 
+  <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+<br/><br/>
+
+Estructuras de Datos - Arreglos<br/>
+Ejercicio 3: Números Deseados 
+  <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+<br/><br/>
+
+Estructuras de Datos - Arreglos<br/>
+Ejercicio 4: Nombres Deseados 
+  <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+<br/><br/>
+
+Estructuras de Datos - Arreglos<br/>
+Ejercicio 5: Dos Arreglos 
+  <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+<br/><br/>
+
+Estructuras de Datos - Arreglos<br/>
+Ejercicio 6: Suma Elementos Arreglo
+  <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+<br/><br/>
+
+Estructuras de Datos - Arreglos<br/>
+Ejercicio 7: Completar Arreglo
+  <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+<br/><br/>
+  </div>
 `;
