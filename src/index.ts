@@ -151,9 +151,31 @@ Estructura de control<br/>
 
   <div>
 <h2>CLASE 6 </h2>
-TAREA (título1)<br />
-  información <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
+<h4> Modularización y Métodos <br/>
+Viernes 6 de mayo de 2022 </h4>
+
+MÉTODOS <br/>
+  <a href="https://codesandbox.io/s/github/Analia1961/Clase6_metodos_ejercicioPotencias_viernes-6Mayo/tree/main?file=/src/potencias.ts" target="_blank" rel="noopener noreferrer"> Ejercicio: Potencias</a>
+<br/><br/>
+
+MÉTODOS<br/>
+  <a href="https://codesandbox.io/s/github/Analia1961/Clase6_ejercicioMultiplos_viernes-6deMayo/tree/main?file=/src/multiplos.ts" target="_blank" rel="noopener noreferrer"> Ejercicio: Múltiplos</a>
+<br/> <br/>
+
+MÉTODOS<br/>
+  <a href="https://codesandbox.io/s/github/Analia1961/Clase6_ejercicioDivisores_viernes-6deMayo/tree/main?file=/src/divisores.ts" target="_blank" rel="noopener noreferrer"> Ejercicio: Divisores</a>
+<br/><br/>
+
+  <h4>EJERCICIOS EN LÍNEA</br>
+   Modularización y Métodos </h4>
+
+MODULARIZACIÓN <br/>
+  <a href="https://codesandbox.io/s/github/Analia1961/Modularizacion_clase6_Calculadora-Ejercicio-online-viernes-6demayo/tree/main?file=/src/calculadora.ts" target="_blank" rel="noopener noreferrer"> Ejercicio 1: Implementar una Calculadora</a> (Revisar)
+<br/><br/>
+
+MÉTODOS<br/>
+Ejercicio 2: Triángulos
+  <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
 </div>
 <br/>
 
