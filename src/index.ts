@@ -17,25 +17,24 @@ TAREA 1 (Ejercicio de clase)<br />
   <a href="https://codesandbox.io/s/github/Analia1961/ejercicio1.ts_clase1-Lunes18abril/tree/main?file=/src/ejercicio1.ts" target="_blank" rel="noopener noreferrer">Crear un posteo en Facebook</a>.
 </div>
 <br/>
+
 <div>
 <h2>CLASE 2 </h2>
 <h4> Algoritmos Secuenciales<br/>
 Viernes 22 de abril de 2022</h4>
-TAREA (título1)<br />
-  información <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
-<br/><br/>
-  TAREA (título2)<br />
-  información <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
-  <br/><br/>
-  TAREA (título3)<br />
-  información <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
-  </div>
 
-<h2>CLASE 3 </h2>
+Secuencia <br />
+  <a href="https://codesandbox.io/s/github/Analia1961/Clase2_Ingreso-de-datos1_Viernes22Abril/tree/main?file=/ejercicio2.ts" target="_blank" rel="noopener noreferrer">Ejercicio: Área del rectángulo</a>
+<br/><br/>
+Secuencia <br />
+Ejercicio: Calculo de Descuento
+<br/><br/>
+Estructuras de Control<br />
+  <a href="https://codesandbox.io/s/github/Analia1961/ejercicio1_clase3-lunes-25abril/tree/main?file=/ejercicio1_clase3.ts" target="_blank" rel="noopener noreferrer">Ejercicio: Autos de Carrera</a>
+  </div>
+<br/>
 <div>
+<h2>CLASE 3 </h2>
 TAREA (título1)<br />
   información <br />
   <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
