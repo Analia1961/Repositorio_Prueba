@@ -43,13 +43,12 @@ Estructuras de Control<br />
   EJERCICIO<br />
   • Modificar el ejemplo de secuencia<br/>
   • Modificar el ejemplo de base por altura
-   <br />
 </div>
-
-<h2>CLASE 4 </h2>
+<br/>
 <div>
-TAREA (título1)<br />
-  información <br />
+<h2>CLASE 4 </h2>
+<h4>Estructura de Control - Selección<br />
+  Viernes 29 de abril de 2022 </h4><br />
   <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
 </div>
 
