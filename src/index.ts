@@ -69,20 +69,23 @@ Ejercicio1 – Mayor de Tres
    Estructura de Control – Selección </h4>
    
    Estructura de Control – Selección Simple</br>
-   <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio1 - Mayor a 20</a>
+   <a href="https://codesandbox.io/s/github/Analia1961/clase4_EjerciciosOnline_Viernes-29-abril/tree/main?file=/src/ejercicio1.ts" target="_blank" rel="noopener noreferrer"> Ejercicio1 - Mayor a 20</a>
    </br></br>
+
    Estructura de Control – Selección Simple</br>
-  
-      <a href="#URL" target="_blank" rel="noopener noreferrer">  Ejercicio 2 - Calculo de Descuento</a>
+      <a href="https://codesandbox.io/s/github/Analia1961/ejercicio2_Online_clase4Viernes29Abril/tree/main?file=/src/ejercicio2.ts" target="_blank" rel="noopener noreferrer">  Ejercicio 2 - Calculo de Descuento</a>
       </br></br>
+
    Estructura de Control – Selección Simple</br>
-    <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio 3 - Validar Altura</a>
+    <a href="https://codesandbox.io/s/github/Analia1961/ejercicio3_Online_clase4Viernes29Abril/tree/main?file=/ejercicio3.ts" target="_blank" rel="noopener noreferrer"> Ejercicio 3 - Validar Altura</a>
       </br></br>
+
    Estructura de Control – Selección Múltiple</br>
-      <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio 4 - Determinar Medalla</a>
+      <a href="https://codesandbox.io/s/github/Analia1961/Ejercicio4_Online_clase4_Viernes29Abril/tree/main?file=/ejercicio4.ts" target="_blank" rel="noopener noreferrer"> Ejercicio 4 - Determinar Medalla</a>
       </br></br>
+
    Estructura de Control – Selección Simple</br>
-   <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio 5 - Login ● Código</a>
+   <a href="https://codesandbox.io/s/github/Analia1961/Ejercicio5_Online_clase4_Viernes29Abril/tree/main?file=/ejercicio5.ts" target="_blank" rel="noopener noreferrer"> Ejercicio 5 - Login ● Código</a>
 </div>
 </br>
 <div>
