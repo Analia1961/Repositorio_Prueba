@@ -20,7 +20,7 @@ TAREA 1 (Ejercicio de clase)<br />
 
 <div>
 <h2>CLASE 2 </h2>
-<h4> Algoritmos Secuenciales<br/>
+<h4> Algoritmos Secuenciales<br/>Estructuras de Control <br />
 Viernes 22 de abril de 2022</h4>
 
 Secuencia <br />
