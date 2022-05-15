@@ -35,13 +35,15 @@ Estructuras de Control<br />
 <br/>
 <div>
 <h2>CLASE 3 </h2>
-TAREA (título1)<br />
-  información <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
+<h4>Algoritmos secuenciales <br/>Estructuras de Control <br />
+  Lunes 25 de abril de 2022</h4> 
+  Siempre para ingresar datos se necesita un input y un botón <br/>
+  <a href="https://codesandbox.io/s/github/Analia1961/ejercicio1_Clase2/tree/main?file=/src/datos.ts" target="_blank" rel="noopener noreferrer">Ingreso de datos - Ejemplo</a>
   <br/><br/>
-  TAREA (título2)<br />
-  información <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
+  EJERCICIO<br />
+  • Modificar el ejemplo de secuencia<br/>
+  • Modificar el ejemplo de base por altura
+   <br />
 </div>
 
 <h2>CLASE 4 </h2>
