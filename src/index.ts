@@ -50,31 +50,43 @@ Estructuras de Control<br />
 <h4>Estructura de Control - Selección<br />
   Viernes 29 de abril de 2022 </h4>
 Selección<br/>
-Ejercicio1 – Mayor de Tres<br/>
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
+Ejercicio1 – Mayor de Tres 
+  <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
   <br/><br/>
   Selección<br/>
-  Ejercicio2 – Par/Impar<br/>
-   <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
+  Ejercicio2 – Par/Impar 
+   <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
   <br/><br/>
   Selección<br/>
-  Ejercicio3 – Descuento Octubre<br/>
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
+  Ejercicio3 – Descuento Octubre 
+  <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
   <br/><br/>
   Selección<br/>
-  Ejercicio4 – Aumento de Sueldo<br/>
-   <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
+  Ejercicio4 – Aumento de Sueldo 
+   <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
+  <br/><br/>
+   <h4>EJERCICIOS EN LÍNEA</br>
+   Estructura de Control – Selección </h4>
+   
+   Estructura de Control – Selección Simple</br>
+   <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio1 - Mayor a 20</a>
+   </br></br>
+   Estructura de Control – Selección Simple</br>
   
-
-
-
-
-
-
+      <a href="#URL" target="_blank" rel="noopener noreferrer">  Ejercicio 2 - Calculo de Descuento</a>
+      </br></br>
+   Estructura de Control – Selección Simple</br>
+    <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio 3 - Validar Altura</a>
+      </br></br>
+   Estructura de Control – Selección Múltiple</br>
+      <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio 4 - Determinar Medalla</a>
+      </br></br>
+   Estructura de Control – Selección Simple</br>
+   <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio 5 - Login ● Código</a>
 </div>
-
-<h2>CLASE 5 </h2>
+</br>
 <div>
+<h2>CLASE 5 </h2>
 TAREA (título1)<br />
   información <br />
   <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
