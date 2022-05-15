@@ -27,7 +27,7 @@ Secuencia <br />
   <a href="https://codesandbox.io/s/github/Analia1961/Clase2_Ingreso-de-datos1_Viernes22Abril/tree/main?file=/ejercicio2.ts" target="_blank" rel="noopener noreferrer">Ejercicio: Área del rectángulo</a>
 <br/><br/>
 Secuencia <br />
-Ejercicio: Calculo de Descuento
+Ejercicio: Cálculo de Descuento
 <br/><br/>
 Estructuras de Control<br />
   <a href="https://codesandbox.io/s/github/Analia1961/ejercicio1_clase3-lunes-25abril/tree/main?file=/ejercicio1_clase3.ts" target="_blank" rel="noopener noreferrer">Ejercicio: Autos de Carrera</a>
