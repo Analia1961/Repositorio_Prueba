@@ -181,10 +181,23 @@ Ejercicio 2: Triángulos
 
 <div>
 <h2>CLASE 7 </h2>
-TAREA (título1)<br />
-  información <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
-</div>
+<h4> Estructuras de Datos - Arreglos<br/>
+Lunes 9 de mayo de 2022 </h4>
+
+Estructuras de Datos <br/>
+Sumar Dos Arreglos 
+  <a href="#" target="_blank" rel="noopener noreferrer"> enlace</a>
+<br/><br/>
+
+Estructuras de Datos <br/>
+Invertir Arreglo 
+  <a href="#" target="_blank" rel="noopener noreferrer"> enlace</a>
+<br/> <br/>
+
+Estructuras de Datos <br />
+ Tipos de Números en Arreglo 
+  <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
+  </div>
 
 <br/>
 <div>
