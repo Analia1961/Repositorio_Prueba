@@ -48,8 +48,29 @@ Estructuras de Control<br />
 <div>
 <h2>CLASE 4 </h2>
 <h4>Estructura de Control - Selección<br />
-  Viernes 29 de abril de 2022 </h4><br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>.
+  Viernes 29 de abril de 2022 </h4>
+Selección<br/>
+Ejercicio1 – Mayor de Tres<br/>
+  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
+  <br/><br/>
+  Selección<br/>
+  Ejercicio2 – Par/Impar<br/>
+   <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
+  <br/><br/>
+  Selección<br/>
+  Ejercicio3 – Descuento Octubre<br/>
+  <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
+  <br/><br/>
+  Selección<br/>
+  Ejercicio4 – Aumento de Sueldo<br/>
+   <a href="#URL" target="_blank" rel="noopener noreferrer">enlace</a>
+  
+
+
+
+
+
+
 </div>
 
 <h2>CLASE 5 </h2>
