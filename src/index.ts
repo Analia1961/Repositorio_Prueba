@@ -207,8 +207,7 @@ Viernes 13 de mayo de 2022 </h4>
 <h3>Arreglos (Ejercicios ONLINE)</h3>
 
 Estructuras de Datos - Arreglos<br/>
-Ejercicio 1: Identificación Mes – Código (Revisar)
-  <a href="https://codesandbox.io/s/github/Analia1961/clase8_Ejercicio1_Viernes13Mayo/tree/main?file=/src/index.ts" target="_blank" rel="noopener noreferrer">  NO FUNCIONA</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase8_Ejercicio1_Viernes13Mayo/tree/main?file=/src/index.ts" target="_blank" rel="noopener noreferrer"> Ejercicio 1: Identificación Mes - Código</a>
 <br/><br/>
 
 Estructuras de Datos - Arreglos<br/>
