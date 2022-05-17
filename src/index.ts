@@ -65,13 +65,11 @@ Selección<br/>
   <br/><br/>
 
   Selección<br/>
-  Ejercicio3 – Descuento Octubre 
-  <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase4_Descuento-Octubre/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 3: Descuento Octubre</a>
   <br/><br/>
 
   Selección<br/>
-  Ejercicio4 – Aumento de Sueldo 
-   <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
+   <a href="https://codesandbox.io/s/github/Analia1961/clase4_AumentoSueldo/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 4: Aumento de Sueldo</a>
   <br/><br/>
 
    <h4>EJERCICIOS EN LÍNEA</br>
