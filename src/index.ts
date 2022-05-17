@@ -57,13 +57,11 @@ Estructuras de Control<br />
   Viernes 29 de abril de 2022 </h4>
 
 Selección<br/>
-Ejercicio1 – Mayor de Tres 
-  <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase4_Mayor-de-3" target="_blank" rel="noopener noreferrer"> Ejercicio 1: Mayor de tres</a>
   <br/><br/>
 
   Selección<br/>
-  Ejercicio2 – Par/Impar 
-   <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
+   <a href="https://codesandbox.io/s/github/Analia1961/clase4_Par-Impar/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 2: Par/Impar</a>
   <br/><br/>
 
   Selección<br/>
