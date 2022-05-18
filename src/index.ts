@@ -122,22 +122,26 @@ Estructura de control<br/>
   <br/><br/>
   
   Estructura de control<br/>
-  Ejercicio 6: Cantidad y Distribución de Positivos 
+    <a href=" # " target="_blank" rel="noopener noreferrer"> Ejercicio 6: Encontrar el Número Máximo</a>
+  <br/><br/>
+
+  Estructura de control<br/>
+  Ejercicio 7: Cantidad y Distribución de Positivos 
     <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
   <br/><br/>
   
   Estructura de control<br/>
-  Ejercicio 7: Promedio-Máximo-Mínimo
+  Ejercicio 8: Promedio-Máximo-Mínimo
     <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
     <br/><br/>
 
     Estructura de control<br/>
-    Ejercicio 8: Calificaciones
+    Ejercicio 9: Calificaciones
       <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
     <br/><br/>
 
     Estructura de control<br/>
-    Ejercicio 9: Dados
+    Ejercicio 10: Dados
       <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
     </div>
   </br>
