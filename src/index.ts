@@ -110,8 +110,7 @@ Estructura de control<br/>
   </br></br>
 
   Estructura de control<br/>
-  Ejercicio 3: Par/Impar
-    <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+    <a href="https://codesandbox.io/s/github/Analia1961/clase5_Par_Impar/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 3: Par/Impar</a>
   <br/><br/>
   
   Estructura de control<br/>
