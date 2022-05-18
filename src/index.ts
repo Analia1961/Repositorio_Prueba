@@ -118,8 +118,7 @@ Estructura de control<br/>
   <br/><br/>
   
   Estructura de control<br/>
-  Ejercicio 5: Tablas de Multiplicación
-    <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+    <a href="https://codesandbox.io/s/github/Analia1961/clase5_Tablas_Multiplicacion/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 5: Tablas de Multiplicación</a>
   <br/><br/>
   
   Estructura de control<br/>
