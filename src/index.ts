@@ -130,8 +130,7 @@ Estructura de control<br/>
   <br/><br/>
   
   Estructura de control<br/>
-  Ejercicio 8: Promedio-Máximo-Mínimo
-    <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+    <a href="https://codesandbox.io/s/github/Analia1961/clase5_promedio_Maximo_Minimo" target="_blank" rel="noopener noreferrer"> Ejercicio 8: Promedio-Máximo-Mínimo</a>
     <br/><br/>
 
     Estructura de control<br/>
