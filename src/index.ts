@@ -126,8 +126,7 @@ Estructura de control<br/>
   <br/><br/>
 
   Estructura de control<br/>
-  Ejercicio 7: Cantidad y Distribución de Positivos 
-    <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+    <a href="https://codesandbox.io/s/github/Analia1961/clase5_Cantidad_Dist_Positivos/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 7: Cantidad y Distribución de Positivos </a>
   <br/><br/>
   
   Estructura de control<br/>
