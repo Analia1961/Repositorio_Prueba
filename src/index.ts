@@ -122,7 +122,7 @@ Estructura de control<br/>
   <br/><br/>
   
   Estructura de control<br/>
-    <a href=" # " target="_blank" rel="noopener noreferrer"> Ejercicio 6: Encontrar el Número Máximo</a>
+    <a href="https://codesandbox.io/s/github/Analia1961/clase5_Numero_Maximo/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 6: Encontrar el Número Máximo</a>
   <br/><br/>
 
   Estructura de control<br/>
