@@ -180,8 +180,7 @@ Ejercicio 2: Triángulos
 Lunes 9 de mayo de 2022 </h4>
 
 Estructuras de Datos <br/>
-Sumar Dos Arreglos 
-  <a href="#" target="_blank" rel="noopener noreferrer"> enlace</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase7_SumarDosArreglos/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 1: Sumar Dos Arreglos </a>
 <br/><br/>
 
 Estructuras de Datos <br/>
