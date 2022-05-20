@@ -188,7 +188,7 @@ Estructuras de Datos <br/>
 <br/> <br/>
 
 Estructuras de Datos <br />
-  <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio 3: Tipos de Números en Arreglo </a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase7_TiposdeArreglos/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 3: Tipos de Números en Arreglo </a>
   </div>
 <br/>
 
