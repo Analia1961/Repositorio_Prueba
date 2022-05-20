@@ -223,8 +223,7 @@ Estructuras de Datos - Arreglos<br/>
 <br/><br/>
 
 Estructuras de Datos - Arreglos<br/>
-Ejercicio 7: Completar Arreglo
-  <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase8-Completar-Arreglo/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 7: Completar Arreglo</a>
 <br/><br/>
   </div>
 `;
