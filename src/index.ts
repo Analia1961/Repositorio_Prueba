@@ -214,9 +214,8 @@ Estructuras de Datos - Arreglos<br/>
   <a href="https://codesandbox.io/s/github/Analia1961/clase8-NombresDeseados/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 4: Nombres Deseados  </a>
 <br/><br/>
 
-Estructuras de Datos - Arreglos<br/>
-Ejercicio 5: Dos Arreglos 
-  <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+Estructuras de Datos - Arreglos<br/> 
+  <a href="https://codesandbox.io/s/github/Analia1961/clase8-2Arreglos/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 5: Dos Arreglos </a>
 <br/><br/>
 
 Estructuras de Datos - Arreglos<br/>
