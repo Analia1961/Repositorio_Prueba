@@ -219,8 +219,7 @@ Estructuras de Datos - Arreglos<br/>
 <br/><br/>
 
 Estructuras de Datos - Arreglos<br/>
-Ejercicio 6: Suma Elementos Arreglo
-  <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase8-Suma-Elementos/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 6: Suma Elementos Arreglo</a>
 <br/><br/>
 
 Estructuras de Datos - Arreglos<br/>
