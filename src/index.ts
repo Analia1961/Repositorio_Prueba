@@ -188,8 +188,7 @@ Estructuras de Datos <br/>
 <br/> <br/>
 
 Estructuras de Datos <br />
- Tipos de Números en Arreglo 
-  <a href="#URL" target="_blank" rel="noopener noreferrer"> enlace</a>
+  <a href="#URL" target="_blank" rel="noopener noreferrer"> Ejercicio 3: Tipos de Números en Arreglo </a>
   </div>
 <br/>
 
