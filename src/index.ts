@@ -207,13 +207,11 @@ Estructuras de Datos - Arreglos<br/>
 <br/><br/>
 
 Estructuras de Datos - Arreglos<br/>
-Ejercicio 3: Números Deseados 
-  <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase8_NumerosDeseados/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 3: Números Deseados  </a>
 <br/><br/>
 
-Estructuras de Datos - Arreglos<br/>
-Ejercicio 4: Nombres Deseados 
-  <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+Estructuras de Datos - Arreglos<br/> 
+  <a href="https://codesandbox.io/s/github/Analia1961/clase8-NombresDeseados/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 4: Nombres Deseados  </a>
 <br/><br/>
 
 Estructuras de Datos - Arreglos<br/>
