@@ -203,8 +203,7 @@ Estructuras de Datos - Arreglos<br/>
 <br/><br/>
 
 Estructuras de Datos - Arreglos<br/>
-Ejercicio 2: Arreglo de Números 
-  <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase8_ArregloNumeros/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 2: Arreglo de Números  </a>
 <br/><br/>
 
 Estructuras de Datos - Arreglos<br/>
