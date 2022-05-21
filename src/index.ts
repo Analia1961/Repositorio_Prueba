@@ -139,13 +139,11 @@ Estructura de control<br/>
     <br/><br/>
 
     Estructura de control<br/>
-    Ejercicio 9: Calificaciones
-      <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+      <a href="https://codesandbox.io/s/github/Analia1961/clase5-Calificaciones/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 9: Calificaciones </a>
     <br/><br/>
 
     Estructura de control<br/>
-    Ejercicio 10: Dados
-      <a href=" # " target="_blank" rel="noopener noreferrer">  enlace</a>
+      <a href="https://codesandbox.io/s/github/Analia1961/clase5-Dados/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 10: Dados</a>
     </div>
   </br>
 
