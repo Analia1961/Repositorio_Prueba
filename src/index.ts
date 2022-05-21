@@ -172,8 +172,7 @@ MODULARIZACIÓN <br/>
 <br/><br/>
 
 MÉTODOS<br/>
-Ejercicio 2: Triángulos
-  <a href=" # " target="_blank" rel="noopener noreferrer"> enlace</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase6-Triangulos/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 2: Triángulos</a>
 </div>
 <br/>
 
@@ -229,4 +228,35 @@ Estructuras de Datos - Arreglos<br/>
   <a href="https://codesandbox.io/s/github/Analia1961/clase8-Completar-Arreglo/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 7: Completar Arreglo</a>
 <br/><br/>
   </div>
+
+  <div>
+<h2>CLASE 9 </h2>
+<h4> Estructuras de Datos y Métodos<br/>
+Lunes 16 de mayo de 2022 </h4>
+<h3> (Ejercicios EN CLASE)</h3>
+
+Estructuras de Datos - Arreglos<br/>
+  <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
+<br/><br/>
+
+Estructuras de Datos - Arreglos<br/>
+  <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
+<br/><br/>
+  </div>
+  <div>
+  <h2>CLASE 10 </h2>
+  <h4> Estructuras de Datos y Métodos<br/>
+  Viernes 20 de mayo de 2022 </h4>
+  <h3> Ejercicios OBLIGATORIOS<br/>
+  Fecha máxima de entrega: <br/>viernes 27/5 - 23:59 h</h3>
+  
+  Ejercicio 1: Cine
+    <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
+  <br/><br/>
+  
+  Ejercicio 2: Multiplicacion
+    <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
+  <br/><br/>
+    </div>
+  
 `;
