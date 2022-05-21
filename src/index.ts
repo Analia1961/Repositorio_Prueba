@@ -46,6 +46,10 @@ Estructuras de Control<br />
   <a href="https://codesandbox.io/s/github/Analia1961/ejercicio1_Clase2/tree/main?file=/src/datos.ts" target="_blank" rel="noopener noreferrer">Ingreso de datos - Ejemplo</a>
   <br/><br/>
 
+  SECUENCIA<br/>
+    <a href="https://codesandbox.io/s/github/Analia1961/clase3-SumaDosNumeros/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio: Suma de Dos Números</a>
+  <br/><br/>
+
   EJERCICIO<br />
   • Modificar el ejemplo de secuencia<br/>
   • Modificar el ejemplo de base por altura
