@@ -258,5 +258,7 @@ Estructuras de Datos - Arreglos<br/>
     <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
   <br/><br/>
     </div>
-  
+    <div>
+    <h2>-------- ✿◕‿◕✿ --------<br/><br/> </h2>
+    </div>
 `;
