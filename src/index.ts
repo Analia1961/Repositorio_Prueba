@@ -29,8 +29,9 @@ Secuencia <br />
 <br/><br/>
 
 Secuencia <br />
-Ejercicio: Cálculo de Descuento
+<a href="https://codesandbox.io/s/github/Analia1961/clase2_CalculoDescuento/tree/main/" target="_blank" rel="noopener noreferrer"> Ejercicio: Cálculo de Descuento</a>
 <br/><br/>
+
 Estructuras de Control<br />
   <a href="https://codesandbox.io/s/github/Analia1961/ejercicio1_clase3-lunes-25abril/tree/main?file=/ejercicio1_clase3.ts" target="_blank" rel="noopener noreferrer">Ejercicio: Autos de Carrera</a>
   </div>
