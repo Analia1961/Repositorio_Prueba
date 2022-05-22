@@ -235,6 +235,10 @@ Estructuras de Datos - Arreglos<br/>
 Lunes 16 de mayo de 2022 </h4>
 <h3> (Ejercicios EN CLASE)</h3>
 
+Ámbito Variable, Legibilidad, Arreglos (Repaso)<br/>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase7_Sumar2Arreglos/tree/main" target="_blank" rel="noopener noreferrer"> Sumar Dos Arreglos (Ejercicio1-clase7)</a>
+<br/><br/>
+
 Estructuras de Datos - Arreglos<br/>
   <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
 <br/><br/>
