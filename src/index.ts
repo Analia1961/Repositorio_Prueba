@@ -251,15 +251,17 @@ Estructuras de Datos - Arreglos<br/>
   <h2>CLASE 10 </h2>
   <h4> Estructuras de Datos y Métodos<br/>
   Viernes 20 de mayo de 2022 </h4>
+  Ejercicios varios:  
+  <a href="https://codesandbox.io/s/github/Analia1961/clase10_Repaso/tree/main" target="_blank" rel="noopener noreferrer"> REPASO</a>
+<br/><br/>
+
   <h3> Ejercicios OBLIGATORIOS<br/>
   Fecha máxima de entrega: <br/>viernes 27/5 - 23:59 h</h3>
   
   Ejercicio 1: Cine
     <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
   <br/><br/>
-  
-  Ejercicio 2: Multiplicacion
-    <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
+    <a href="https://codesandbox.io/s/github/Analia1961/multiplicacion/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 2: Multiplicacion </a>
   <br/><br/>
     </div>
     <div>
