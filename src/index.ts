@@ -265,7 +265,15 @@ Estructuras de Datos - Arreglos<br/>
     <a href="https://codesandbox.io/s/github/Analia1961/multiplicacion/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 2: Multiplicacion </a>
   <br/><br/>
     </div>
+
+    <div> <h2> CLASE 12 </h2>
+    <h4> Repaso General para el Examen <br/>
+  Viernes 27 de mayo de 2022</h4>
+      <a href="https://codesandbox.io/s/github/Analia1961/clase12-CalcularPromedio/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 1 Calcular Promedio </a>
+    <br/><br/>
+      </div>  
     <div>
+
     <h2>-------- ✿◕‿◕✿ --------<br/><br/> </h2>
     </div>
 `;
