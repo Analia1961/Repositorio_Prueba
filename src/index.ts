@@ -272,8 +272,14 @@ Estructuras de Datos - Arreglos<br/>
       <a href="https://codesandbox.io/s/github/Analia1961/clase12-CalcularPromedio/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 1 Calcular Promedio </a>
     <br/><br/>
       </div>  
+      <div> <h2> CLASE 13 </h2>
+      <h4> Repaso General para el Examen <br/>
+  Lunes 30 de mayo de 2022</h4>
+        <a href=" https://codesandbox.io/s/github/Analia1961/CamelCase/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 1 Convertir texto en CamelCase </a>
+      <br/><br/>
+        </div>  
+  
     <div>
-
     <h2>-------- ✿◕‿◕✿ --------<br/><br/> </h2>
     </div>
 `;
