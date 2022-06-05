@@ -283,7 +283,7 @@ Estructuras de Datos - Arreglos<br/>
     
       <a href="https://codesandbox.io/s/github/Analia1961/clase13_Ejercicio1/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 1 </a>
     <br/><br/>
-<a href=" #URL" target="_blank" rel="noopener noreferrer"> Ejercicio 2 </a>
+<a href="https://codesandbox.io/s/github/Analia1961/Clase13-Ejercicio2/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 2 </a>
     <br/><br/>
       </div>  
 
