@@ -240,11 +240,11 @@ Lunes 16 de mayo de 2022 </h4>
 <br/><br/>
 <h3> <u> REPASO MÉTODOS</u></h3>
 Estructuras de Datos - Arreglos<br/>
-  <a href="#" target="_blank" rel="noopener noreferrer"> Ejercicio 1: Sumar Arreglos (con Métodos)</a>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase9-Ejercicio1-Metodos/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 1: Sumar Arreglos (con Métodos)</a>
 <br/><br/>
 
-CODIGO ENVIADO POR LA ALUMNA GISELA GENTILE <br/>
-  <a href="#" target="_blank" rel="noopener noreferrer"> Ejercicio 2: Sumar Arreglos (con Métodos) </a>
+<b> CODIGO ENVIADO POR LA ALUMNA GISELA GENTILE </b> <br/>
+  <a href="https://codesandbox.io/s/github/Analia1961/clase9-Ejercicio2-Metodos/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 2: Sumar Arreglos (con Métodos) </a>
 <br/><br/>
   </div>
   <div>
