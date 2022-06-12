@@ -238,13 +238,13 @@ Lunes 16 de mayo de 2022 </h4>
 Ámbito Variable, Legibilidad, Arreglos (Repaso)<br/>
   <a href="https://codesandbox.io/s/github/Analia1961/clase7_Sumar2Arreglos/tree/main" target="_blank" rel="noopener noreferrer"> Sumar Dos Arreglos (Ejercicio1-clase7)</a>
 <br/><br/>
-
+<h3> <u> REPASO MÉTODOS</u></h3>
 Estructuras de Datos - Arreglos<br/>
-  <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
+  <a href="#" target="_blank" rel="noopener noreferrer"> Ejercicio 1: Sumar Arreglos (con Métodos)</a>
 <br/><br/>
 
-Estructuras de Datos - Arreglos<br/>
-  <a href="#" target="_blank" rel="noopener noreferrer"> ENLACE </a>
+CODIGO ENVIADO POR LA ALUMNA GISELA GENTILE <br/>
+  <a href="#" target="_blank" rel="noopener noreferrer"> Ejercicio 2: Sumar Arreglos (con Métodos) </a>
 <br/><br/>
   </div>
   <div>
