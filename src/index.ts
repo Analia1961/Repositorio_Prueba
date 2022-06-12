@@ -276,7 +276,7 @@ Estructuras de Datos - Arreglos<br/>
       <div> <h2> CLASE 13 </h2>
       <h4> Repaso General para el Examen <br/>
   Lunes 30 de mayo de 2022</h4>
-  <h4><u>Ejercicio 1:</u> Escribir un algoritmo que pida al usuario ingresar una
+  <h4><u>Ejercicio 1:</u>  <br />Consigna:<br />Escribir un algoritmo que pida al usuario ingresar una
 serie de textos, hasta que ingrese un texto vacío, y
 los convierta en nombres de variable que cumpla las
 recomendaciones de buenas prácticas.
@@ -288,7 +288,7 @@ lo debe convertir en cantidadDePasos</h4>
       <div> 
 <h2> Ejercicios de Repaso <br/>NO OBLIGATORIOS</h2>
 <h4>
-<u>EJERCICIO 1:</u> Una materia de la carrera de Ingeniería de Sistemas exige 
+<u>EJERCICIO 1:</u>  <br />Consigna:<br />Una materia de la carrera de Ingeniería de Sistemas exige 
 la entrega de un trabajo práctico cada mes del año académico. 
 Este arreglo contiene las notas de un alumno 
 para los meses de marzo a diciembre:<br/>
@@ -305,7 +305,8 @@ mayor nota el alumno y cuál fue la nota.<br/>
 
       <a href="https://codesandbox.io/s/github/Analia1961/clase13_Ejercicio1/tree/main" target="_blank" rel="noopener noreferrer"> EJERCICIO 1 </a>
     <br/><br/>
-  <h4><U>EJERCICIO 2:</U>  Una materia de la carrera de Ingeniería de Sistemas 
+  <h4><U>EJERCICIO 2:</U> <br />Consigna:<br />
+   Una materia de la carrera de Ingeniería de Sistemas 
 tiene 30 alumnos, divididos en 3 comisiones. <br/>
 Estos arreglos contienen las notas finales de los alumnos 
 en cada comisión:<br/>
@@ -331,7 +332,20 @@ comisión, mostrar el resultado para cada comisión.</h4>
   <h2> Ejercicios de Repaso <br/>NO OBLIGATORIOS</h2>
 
   <h4>
-  <u>EJERCICIO 2 (En clase):</u><br />
+<u>EJERCICIO 1 (En clase)</u><br />
+Consigna:<br />
+  Escribe una función iterativa que
+dado un número entero n, retorne un array
+con todos los números enteros
+en orden decreciente desde n a 1.
+    </h4>
+      <a href="https://codesandbox.io/s/github/Analia1961/Clase15-Ejercicio1/tree/main" target="_blank" rel="noopener noreferrer"> EJERCICIO 1 </a>
+    <br/><br/>
+
+
+  <h4>
+  <u>EJERCICIO 2 (En clase)</u><br />
+  Consigna:<br />
   Solicitar al usuario los precios de sus compras, agregarlos a un arreglo. <br />
   Luego, efectuar un descuento en porcentajes, <br />
   si la compra es mayor a $3000 el descuento es 10%<br />
@@ -341,7 +355,9 @@ comisión, mostrar el resultado para cada comisión.</h4>
       <br/><br/>
   
     <h4>
-    <u> EJERCICIO 5 (En clase):</u> <br />En un supermercado, el conteo de productos totales se hace semestralmente.
+    <u> EJERCICIO 5 (En clase)</u> <br />
+    Consigna:<br />
+    En un supermercado, el conteo de productos totales se hace semestralmente.
         ¡Hacer funciones! Calcular:<br />
         * El promedio de cada semestre de ventas de productos<br />
         * El promedio anual de productos<br />
