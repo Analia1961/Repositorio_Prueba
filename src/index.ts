@@ -276,16 +276,76 @@ Estructuras de Datos - Arreglos<br/>
       <div> <h2> CLASE 13 </h2>
       <h4> Repaso General para el Examen <br/>
   Lunes 30 de mayo de 2022</h4>
-        <a href=" https://codesandbox.io/s/github/Analia1961/CamelCase/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 1 Convertir texto en CamelCase </a>
+  <h4><u>Ejercicio 1:</u> Escribir un algoritmo que pida al usuario ingresar una
+serie de textos, hasta que ingrese un texto vacío, y
+los convierta en nombres de variable que cumpla las
+recomendaciones de buenas prácticas.
+<br/>
+Por ejemplo, si el usuario ingresa: cantidad de pasos
+lo debe convertir en cantidadDePasos</h4>
+        <a href=" https://codesandbox.io/s/github/Analia1961/CamelCase/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 1: Convertir texto en CamelCase </a>
       <br/><br/>
       <div> 
 <h2> Ejercicios de Repaso <br/>NO OBLIGATORIOS</h2>
-    
-      <a href="https://codesandbox.io/s/github/Analia1961/clase13_Ejercicio1/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 1 </a>
+<h4>
+<u>EJERCICIO 1:</u> Una materia de la carrera de Ingeniería de Sistemas exige 
+la entrega de un trabajo práctico cada mes del año académico. 
+Este arreglo contiene las notas de un alumno 
+para los meses de marzo a diciembre:<br/>
+
+notasAlumno: [7, 6, 9, 5, 8, 7, 10, 4, 8, 8]<br/>
+
+1) Teniendo en cuenta que se aprueba con 6, crear una 
+función que devuelva en que meses desaprobó el alumno.<br/>
+2) Crear una función que devuelva en que mes obtuvo 
+menor nota el alumno y cuál fue la nota.<br/>
+3) Crear una función que devuelva en que mes obtuvo 
+mayor nota el alumno y cuál fue la nota.<br/>
+4) Crear una función que devuelva el promedio del alumno.    </h4>
+
+      <a href="https://codesandbox.io/s/github/Analia1961/clase13_Ejercicio1/tree/main" target="_blank" rel="noopener noreferrer"> EJERCICIO 1 </a>
     <br/><br/>
-<a href="https://codesandbox.io/s/github/Analia1961/Clase13-Ejercicio2/tree/main" target="_blank" rel="noopener noreferrer"> Ejercicio 2 </a>
+  <h4><U>EJERCICIO 2:</U>  Una materia de la carrera de Ingeniería de Sistemas 
+tiene 30 alumnos, divididos en 3 comisiones. <br/>
+Estos arreglos contienen las notas finales de los alumnos 
+en cada comisión:<br/>
+comisionA = [8, 5, 7, 10, 9, 2, 4, 8, 6, 8]<br/>
+comisionB = [3, 6, 8, 5, 4, 7, 7, 4, 6, 8]<br/>
+comisionC = [7, 6, 9, 8, 9, 8, 5, 7, 10, 9]<br/>
+1. Crear una función que devuelva el mayor promedio 
+y a qué comisión corresponde.<br/>
+2. Crear una función que devuelva el menor promedio 
+y a qué comisión corresponde.<br/>
+3. Teniendo en cuenta que la materia se aprueba con 6, 
+crear una función que devuelva la cantidad de desaprobados 
+en una comisión, mostrar el resultado para cada comisión<br/>
+4. Crear una función que devuelva la menor nota de una 
+comisión, mostrar el resultado para cada comisión.</h4>
+<a href="https://codesandbox.io/s/github/Analia1961/Clase13-Ejercicio2/tree/main" target="_blank" rel="noopener noreferrer"> EJERCICIO 2 </a>
     <br/><br/>
       </div>  
+
+      <div> <h2> CLASE 15 </h2>
+      <h4> Repaso General para el Examen <br/>
+    Viernes 10 de junio de 2022</h4>
+  <h2> Ejercicios de Repaso <br/>NO OBLIGATORIOS</h2>
+    <h4>
+    <u> EJERCICIO 5:</u> En un supermercado, el conteo de productos totales se hace semestralmente.
+        ¡Hacer funciones! Calcular:<br />
+        * El promedio de cada semestre de ventas de productos<br />
+        * El promedio anual de productos<br />
+        * El promedio de ventas trimestrales<br />
+        * El mes que más se vendió en cada semestre<br />
+        primerSemestre [234,345,560,230,765,79]<br />
+        segundoSemestre [145,876,367,290,100,356]<br />
+      </h4>
+        <a href="https://codesandbox.io/s/github/Analia1961/clase15-ejercicio5/tree/main/" target="_blank" rel="noopener noreferrer"> EJERCICIO 5 </a>
+      <br/><br/>
+        </div>  
+  
+
+
+
 
         </div>  
   
