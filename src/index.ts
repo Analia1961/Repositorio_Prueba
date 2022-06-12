@@ -354,6 +354,15 @@ en orden decreciente desde n a 1.
         <a href=" https://codesandbox.io/s/github/Analia1961/clase15-Ejercicio2/tree/main" target="_blank" rel="noopener noreferrer"> EJERCICIO 2 </a>
       <br/><br/>
   
+      <h4>
+      <u>EJERCICIO 3 (En clase)</u> <br />Consigna: <br />Solicitar al usuario un (1) nombre. <br />
+      Si el mismo es igual a otro nombre almacenado en una
+      variable, realizar una salida por alerta con el mensaje “Fui
+      yo”. <br />
+      Caso contrario, la salida será “Yo no fui”. <br /> </h4>
+            <a href="https://codesandbox.io/s/github/Analia1961/clase15-Ejercicio3/tree/main" target="_blank" rel="noopener noreferrer"> EJERCICIO 3 </a>
+          <br/><br/>
+      
     <h4>
     <u> EJERCICIO 5 (En clase)</u> <br />
     Consigna:<br />
