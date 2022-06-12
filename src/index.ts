@@ -324,13 +324,24 @@ comisión, mostrar el resultado para cada comisión.</h4>
 <a href="https://codesandbox.io/s/github/Analia1961/Clase13-Ejercicio2/tree/main" target="_blank" rel="noopener noreferrer"> EJERCICIO 2 </a>
     <br/><br/>
       </div>  
-
+      <h2>-------- ♥(◕‿◕)♥ --------</h2><br/>
       <div> <h2> CLASE 15 </h2>
       <h4> Repaso General para el Examen <br/>
     Viernes 10 de junio de 2022</h4>
   <h2> Ejercicios de Repaso <br/>NO OBLIGATORIOS</h2>
+
+  <h4>
+  <u>EJERCICIO 2 (En clase):</u><br />
+  Solicitar al usuario los precios de sus compras, agregarlos a un arreglo. <br />
+  Luego, efectuar un descuento en porcentajes, <br />
+  si la compra es mayor a $3000 el descuento es 10%<br />
+  si la compra es mayor a $5000 el descuento es 20%<br />
+  Mostar el resultado:<br /></h4>
+        <a href=" https://codesandbox.io/s/github/Analia1961/clase15-Ejercicio2/tree/main" target="_blank" rel="noopener noreferrer"> EJERCICIO 2 </a>
+      <br/><br/>
+  
     <h4>
-    <u> EJERCICIO 5:</u> En un supermercado, el conteo de productos totales se hace semestralmente.
+    <u> EJERCICIO 5 (En clase):</u> <br />En un supermercado, el conteo de productos totales se hace semestralmente.
         ¡Hacer funciones! Calcular:<br />
         * El promedio de cada semestre de ventas de productos<br />
         * El promedio anual de productos<br />
@@ -343,9 +354,6 @@ comisión, mostrar el resultado para cada comisión.</h4>
       <br/><br/>
         </div>  
   
-
-
-
 
         </div>  
   
